@@ -71,6 +71,6 @@ Optimized parameters to achieve a **73.5% accuracy score** on test data.
 ---
 
 ### ⚡ Fun Fact  
-> I sometimes break things just to rebuild them better 🔧
+> I sometimes break things just to rebuild them better 
 
 ---
